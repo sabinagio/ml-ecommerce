@@ -1,4 +1,4 @@
-# 🛒 E-Commerce Customer Purchase Prediction
+# 🛒 **E-Commerce Customer Purchase Prediction**
 
 Predict customer purchase intent in an e-commerce environment using session and behavioral data. 🎯
 
