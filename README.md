@@ -64,7 +64,7 @@ We use the **Online Shoppers Purchasing Intention Dataset**, which contains deta
    - Classification models
    - Model evaluation with accuracy, precision, recall, F1-score  
 
-4. **Deployment (Optional)** 🚀  
+4. **Deployment** 🚀  
    - Predict purchase intent in real-time for live sessions  
    - Integrate predictions with personalization and marketing tools  
 
