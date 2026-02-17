@@ -9,7 +9,7 @@ This project focuses on **predicting whether a website visitor will make a purch
 
 By identifying visitors with high purchase intent, businesses can optimize **targeting, personalization, and retargeting strategies**, ultimately boosting **revenue and conversion rates**. 💰
 
-**Target:**  
+**Target: REVENUE (Categorical)**  
 - 🟢 <span style="color:green"><b>Buy</b></span>  
 - 🔴 <span style="color:red"><b>Not Buy</b></span>
 
